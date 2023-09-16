@@ -1,0 +1,46 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 1em;
+}
+
+/* Hero Section */
+#home {
+  background-image: url('hero-bg.jpg');
+  background-size: cover;
+  text-align: center;
+  padding: 3em 0;
+}
+
+/* Features */
+#features {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* FAQs */
+#faqs {
+  padding: 2em;
+}
+
+/* Contact */
+#contact {
+  padding: 2em;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
